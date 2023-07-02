@@ -1,7 +1,9 @@
 {
-    "Version": "1.0.6",
+    "VersionMain": "1.0.6",
     "ProgramName": "NELAUNCH",
 
     "author": "@slide36",
-    "Gmail": "spanishiwasc2@gmail.com"
+    "Gmail": "spanishiwasc2@gmail.com",
+
+    "VersionCheat": "1.0.7"
 }
